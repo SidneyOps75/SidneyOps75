@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **HTML and CSS**
 
