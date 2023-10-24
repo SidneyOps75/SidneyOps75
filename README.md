@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Opiyo</h1>
-<h3 align="center">Aspiring Software Developer from Kenya</h3>
+<h3 align="center">Welcome to my space</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidneyops75&label=Profile%20views&color=0e75b6&style=flat" alt="sidneyops75" /> </p>
 
