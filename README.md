@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **ANYTHING APART FROM CODING**
+- 💬 Ask me about **ANYTHING APART FROM CODING** :smiley:
 
 - 📫 How to reach me **johnops75@gmail.com** or **jsidney38@gmail.com**
 
