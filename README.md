@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **golang**
 
-- 💬 Ask me about **ANYTHING APART FROM CODING** :smiley:
+- 💬 Ask me about **MY PROGRAMMING JOURNEY** :smiley:
 
 - 📫 How to reach me **johnops75@gmail.com** or **jsidney38@gmail.com**
 
