@@ -19,10 +19,10 @@ I'm passionate about coding and love to explore new technologies. Here's a littl
 
 ## Skills
 
-- HTML <img src="" alt="HTML Icon" width="20"/>
+- HTML <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML Icon" width="40" height= "40"/>
 - CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="40" height="40"/>
-- Python <img src="python-icon-url" alt="Python Icon" width="20"/>
-- GoLang <img src="golang-icon-url" alt="GoLang Icon" width="20"/> (Currently Learning)
+- Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="40" height="40"/>
+- GoLang <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="GoLang Icon" width="40" height = "40"/> (Currently Learning)
 
 ## Projects
 
