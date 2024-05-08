@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm [John Opiyo]
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+John+Opiyo....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/SP-XD/SP-XD/blob/3b1c00a95329b74f8375b32ce8c8e6ff92bbdcf3/hello-coders-optimized.gif" alt="Left Image" width="200"/>
