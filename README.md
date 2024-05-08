@@ -1,6 +1,9 @@
 # Hi there! 👋 I'm [Your Name]
 
-Welcome to my GitHub profile! I'm an aspiring developer with skills in HTML, CSS, Python, and currently learning GoLang.
+<div style="display: flex; align-items: center;">
+    <img src="left-image-url" alt="Left Image" width="200"/>
+    <p>Welcome to my GitHub profile! I'm an aspiring developer with skills in HTML, CSS, Python, and currently learning GoLang.</p>
+</div>
 
 ## About Me
 
@@ -12,10 +15,10 @@ I'm passionate about coding and love to explore new technologies. Here's a littl
 
 ## Skills
 
-- HTML
-- CSS
-- Python
-- GoLang (Currently Learning)
+- HTML <img src="html-icon-url" alt="HTML Icon" width="20"/>
+- CSS <img src="css-icon-url" alt="CSS Icon" width="20"/>
+- Python <img src="python-icon-url" alt="Python Icon" width="20"/>
+- GoLang <img src="golang-icon-url" alt="GoLang Icon" width="20"/> (Currently Learning)
 
 ## Projects
 
@@ -35,4 +38,8 @@ Let's connect and collaborate! You can find me on:
 
 Feel free to reach out if you have any questions or just want to chat!
 
-![Coding](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
+![Coding](coding-image-url)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="right-image-url" alt="Right Image" width="300"/>
+</div>
