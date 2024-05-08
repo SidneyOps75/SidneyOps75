@@ -19,8 +19,8 @@ I'm passionate about coding and love to explore new technologies. Here's a littl
 
 ## Skills
 
-- HTML <img src="html-icon-url" alt="HTML Icon" width="20"/>
-- CSS <img src="css-icon-url" alt="CSS Icon" width="20"/>
+- HTML <img src="" alt="HTML Icon" width="20"/>
+- CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Icon" width="20"/>
 - Python <img src="python-icon-url" alt="Python Icon" width="20"/>
 - GoLang <img src="golang-icon-url" alt="GoLang Icon" width="20"/> (Currently Learning)
 
