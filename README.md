@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [John Opiyo]
 
 <div style="display: flex; align-items: center;">
-    <img src="left-image-url" alt="Left Image" width="200"/>
+    <img src="https://github.com/SP-XD/SP-XD/blob/3b1c00a95329b74f8375b32ce8c8e6ff92bbdcf3/hello-coders-optimized.gif" alt="Left Image" width="200"/>
     <p>Welcome to my GitHub profile! I'm an aspiring developer with skills in HTML, CSS, Python, and currently learning GoLang.</p>
 </div>
 
