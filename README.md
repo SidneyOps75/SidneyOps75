@@ -37,14 +37,8 @@ Here are some projects I've worked on:
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](your-linkedin-profile-url)
-- [Twitter](your-twitter-profile-url)
-- [Portfolio Website](your-portfolio-website-url)
+- [LinkedIn](https://www.linkedin.com/in/john-opiyo-b20056141/)
+- [Twitter](https://x.com/johnsidops)
+- [Portfolio Website](https://sidneyops75.github.io/)
 
 Feel free to reach out if you have any questions or just want to chat!
-
-![Coding](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="right-image-url" alt="Right Image" width="300"/>
-</div>
