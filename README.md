@@ -1,4 +1,6 @@
-<h1 align="left">Hello World!! My  Name is John Opiyo.</h1>
+<br clear="both">
+
+<h1 align="center">Hello World!! My  Name is John Opiyo.</h1>
 
 ###
 
@@ -14,7 +16,6 @@
 </div>
 
 ###
-
 Let's connect and collaborate! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/john-opiyo-b20056141/)
@@ -40,3 +41,8 @@ Let's connect and collaborate! You can find me on:
 </div>
 
 ###
+Let's connect and collaborate! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/john-opiyo-b20056141/)
+- [Twitter](https://x.com/johnsidops)
+- [Portfolio Website](https://sidneyops75.github.io/)
