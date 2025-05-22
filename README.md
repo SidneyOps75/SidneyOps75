@@ -1,6 +1,5 @@
 <br clear="both">
 
-<h1 align="left">Hello World!! I'm  John Sidney Opiyo.</h1>
 <h1 align="center">
   ⚡️ <span style="color:#0ff; text-shadow: 0 0 10px #0ff;">Hello, I'm <strong>John Opiyo</strong>!</span> ⚡️
 </h1>
