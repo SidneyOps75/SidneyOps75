@@ -50,3 +50,5 @@ Let's connect and collaborate! You can find me on:
 - ⚙️ CI/CD with GitHub Actions  
 - 🧠 Rust smart pointers & memory safety
 
+> “Code. Learn. Improve. Repeat.” – John Opiyo
+
