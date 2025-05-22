@@ -39,7 +39,7 @@ Let's connect and collaborate! You can find me on:
 
 ###  GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SidneyOps75&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyOps75&layout=compact&theme=tokyonight" />
 </p>
