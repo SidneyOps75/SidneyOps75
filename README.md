@@ -22,8 +22,7 @@ Let's connect and collaborate! You can find me on:
 
 <img src="https://raw.githubusercontent.com/SidneyOps75/SidneyOps75/output/snake.svg" alt="Snake animation" />
 
-###
-My Skills are in the following technologies:
+### Tech Stacks:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -44,4 +43,10 @@ My Skills are in the following technologies:
   <img src="https://github-readme-stats.vercel.app/api?username=SidneyOps75&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyOps75&layout=compact&theme=tokyonight" />
 </p>
+
+### 🧠 Currently Learning
+
+- 📱 Flutter UI & Animations  
+- ⚙️ CI/CD with GitHub Actions  
+- 🧠 Rust smart pointers & memory safety
 
