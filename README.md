@@ -1,6 +1,14 @@
 <br clear="both">
 
-<h1 align="left">Hello World!! My  Name is John Opiyo.</h1>
+<h1 align="left">Hello World!! I'm  John Sidney Opiyo.</h1>
+<h1 align="center">
+  ⚡️ <span style="color:#0ff; text-shadow: 0 0 10px #0ff;">Hello, I'm <strong>John Opiyo</strong>!</span> ⚡️
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=435&lines=Fullstack+Dev+%7C+Go+%7C+Rust+%7C+JS;Lover+of+Clean+Code+%26+Cool+CLI+Tools;Building+1s+and+0s+with+passion+💙" />
+</p>
+
 
 💻 Fullstack Developer (Go | JS | Rust)  
 🚀 Passionate about building robust backends & clean UIs
