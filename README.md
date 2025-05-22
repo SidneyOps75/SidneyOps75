@@ -2,6 +2,9 @@
 
 <h1 align="left">Hello World!! My  Name is John Opiyo.</h1>
 
+💻 Fullstack Developer (Go | JS | Rust)  
+🚀 Passionate about building robust backends & clean UIs
+
 ###
 
 <div align="center">
