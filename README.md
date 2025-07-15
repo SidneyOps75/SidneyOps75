@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h1 align="center">
-  ⚡️ <span style="color:#0ff; text-shadow: 0 0 10px #0ff;">Hello, I'm <strong>John Opiyo</strong>!</span> ⚡️
+   <span style="color:#0ff; text-shadow: 0 0 10px #0ff;">Hello, I'm <strong>John Opiyo</strong>!</span> 
 </h1>
 
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 
-💻 Fullstack Developer (Go | JS | Rust)  
-🚀 Passionate about building robust backends & clean UIs
+ Fullstack Developer (Go | JS | Rust)  
+ Passionate about building robust backends & clean UIs
 
 ###
 
