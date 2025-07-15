@@ -13,12 +13,6 @@
  Passionate about building robust backends & clean UIs
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SidneyOps75/count.svg?"/>
-</div>
-
-###
 Let's connect and collaborate! You can find me on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/john-opiyo-b20056141/)
 [![X](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://x.com/johnsidops)
