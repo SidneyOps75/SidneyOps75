@@ -5,12 +5,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=600&lines=Fullstack+Dev+%7C+Go+%7C+Rust+%7C+JS;Lover+of+Clean+Code+%26+Cool+CLI+Tools;Building+1s+and+0s+with+passion+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&width=600&lines=Do+you+%7C+want+%7C+to+%7C+develop+%7C+an+app?;Lover+of+Clean+Code+%26+Cool+CLI+Tools;Building+1s+and+0s+with+passion+💙" />
 </p>
-
-
- Do you want to develop an app?  
- Passionate about building robust backends & clean UIs
 
 ###
 Let's connect and collaborate! You can find me on:
