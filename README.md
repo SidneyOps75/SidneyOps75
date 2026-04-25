@@ -9,7 +9,7 @@
 </p>
 
 
- Fullstack Developer (Go | JS | Rust)  
+ Do you want to develop an app?  
  Passionate about building robust backends & clean UIs
 
 ###
